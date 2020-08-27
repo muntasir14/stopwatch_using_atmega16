@@ -2,7 +2,7 @@
  * stopwatch_youtube.c
  *
  * Created: 7/27/2016 10:05:10 PM
- *  Author: munta
+ *  Author: Ikramuzzaman Muntasir
  */ 
 
 
